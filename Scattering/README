@@ -1,3 +1,1 @@
-This code calculates the number of scattering particles per volume, as well as the scaled optical depth, based on the particle properties of the particles used. 
-
 The code is used to determine how large the concentration in the container must be to have a scaled optical depth greater than 0.3. 
