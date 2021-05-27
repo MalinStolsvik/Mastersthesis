@@ -1,1 +1,1 @@
-The code is used to determine how large the concentration in the container must be to have a scaled optical depth greater than 0.3. 
+The code is used to determine how large the concentration in the container must be to have a scaled optical depth greater than 0.3. The scattering code is based on a scattering code made by Børge Hamre. 
